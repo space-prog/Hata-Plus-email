@@ -20,7 +20,6 @@ body {
 .img {
     height: 30vh;
     /* width: 70vw; */
-    background: url(img/Group1.png) no-repeat center/contain;
 }
 
 .tac {
@@ -48,6 +47,17 @@ h2 {
     width: 33%;
 }
 
-.tac {
-    
+.pad {
+    padding: 35px 39px;
+}
+
+.description {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+
+.padding {
+    padding: 25px 41px;
 }
