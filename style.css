@@ -101,13 +101,17 @@ h2 {
 }
 
 .socials {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
     width: 34px;
     height: 34px;
     border-radius: 17px;
     background-color: #ffffff;
+}
+
+.socials img {
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
 }
 
 .flex {
@@ -129,4 +133,9 @@ h2 {
     line-height: 24px;
     color: #25252c;
     font-weight: bold;
+}
+
+.sadasd p {
+    display: inline-block;
+    vertical-align: top;
 }
