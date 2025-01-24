@@ -2,92 +2,53 @@
     margin: 0;
     padding: 0;
 }
-
 a {
     text-decoration: none;
-    font-family: Arial;
 }
-
 body {
     background-color: #f5f5f5;
+    font-family: Arial;
 }
-
 .graybg {
     width: 31vw;
     height: 83px;
     background-color: #dcdce5;
 }
-
-.right {
-    text-align: right;
-}
-
 .img {
     height: 30vh;
-    /* width: 70vw; */
 }
-
-.tac {
-    text-align: center;
-}
-
-.tac p,
-h2 {
-    font-family: "Arial";
-
-}
-
-.tac h2 {
+.adv h2 {
     font-size: 14px;
     line-height: 1.3em;
 }
-
-.tac p {
+.adv p {
     font-size: 13px;
     line-height: 1.4em;
     color: #666666;
 }
-
 .width {
     width: 33%;
 }
-
-.pad {
-    padding: 35px 39px;
-}
-
 .description {
     font-size: 13px;
-    line-height: 18px;
+    line-height: 1.3em;
     color: #9999a6;
-    font-family: "Arial";
 }
-
 .padding {
     padding: 25px 30px;
     display: flex;
     column-gap: 35px;
 }
-
 .title {
     font-size: 16px;
     line-height: 1.5em;
     color: #1f1f56;
     font-weight: bold;
-    font-family: "Arial";
     padding-bottom: 19px;
 }
-
 .pb {
     padding-bottom: 20px;
 }
-
-.ttt p {
-    font-size: 13px;
-    line-height: 20px;
-    font-family: "Arial";
-}
-
 .submit {
     display: inline-block;
     border: none;
@@ -99,7 +60,6 @@ h2 {
     cursor: pointer;
     font-size: 14px;
 }
-
 .socials {
     display: block;
     width: 34px;
@@ -107,36 +67,25 @@ h2 {
     border-radius: 17px;
     background-color: #ffffff;
 }
-
 .socials img {
     top: 50%;
     position: relative;
     transform: translateY(-50%);
 }
-
 .flex {
     display: flex;
     justify-content: center;
-    column-gap: 9px;
 }
-
-
-.padd {
-    padding: 25px;
-}
-
 .graybg1 {
     background-color: #dcdce5;
 }
-
 .phone {
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5em;
     color: #25252c;
     font-weight: bold;
 }
-
-.sadasd p {
+.soc_div p {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
 }
