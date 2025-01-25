@@ -62,10 +62,6 @@ body {
 }
 .socials {
     display: block;
-    width: 34px;
-    height: 34px;
-    border-radius: 17px;
-    background-color: #ffffff;
 }
 .socials img {
     top: 50%;
