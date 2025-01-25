@@ -9,6 +9,9 @@ body {
     background-color: #f5f5f5;
     font-family: Arial;
 }
+sup {
+    font-size: 10px;
+}
 .graybg {
     width: 31vw;
     height: 83px;
