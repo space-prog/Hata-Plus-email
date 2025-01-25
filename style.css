@@ -30,7 +30,11 @@ sup {
     color: #666666;
 }
 .width {
+    padding-right: 5px;
     width: 33%;
+}
+.minheight {
+    min-height: 60px;
 }
 .description {
     font-size: 13px;
