@@ -54,7 +54,7 @@ body {
     border: none;
     color: #ffffff;
     font-weight: bold;
-    padding: 13px 27px;
+    padding: 10px 27px;
     border-radius: 20px;
     background-color: #1f1f56;
     cursor: pointer;
@@ -62,11 +62,6 @@ body {
 }
 .socials {
     display: block;
-}
-.socials img {
-    top: 50%;
-    position: relative;
-    transform: translateY(-50%);
 }
 .flex {
     display: flex;
@@ -83,5 +78,11 @@ body {
 }
 .soc_div p {
     display: inline-block;
-    vertical-align: middle;
+    padding-right: 9px;
+}
+.adv p img {
+    padding-bottom: 16px;
+}
+.adv h2 {
+    padding-bottom: 9px;
 }
